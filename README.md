@@ -4,6 +4,9 @@ A modern luxury travel discovery platform that reimagines the traditional bookin
 
 Built with a strong focus on frontend engineering, visual storytelling, and user experience, Driftly delivers a premium travel exploration journey across desktop, tablet, and mobile devices.
 
+Try it out:
+driftly-planner.vercel.app
+
 ## 🚀 Features
 
 * Immersive and responsive travel discovery experience
